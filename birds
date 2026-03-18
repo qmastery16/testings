@@ -1,0 +1,14 @@
+./cbfstool ./coreflop.rom add -f ./floppybird.img -n floppyimg/bird01.lzma -t raw -c lzma
+./cbfstool ./coreflop.rom add -f ./floppybird.img -n floppyimg/bird02.lzma -t raw -c lzma
+./cbfstool ./coreflop.rom add -f ./floppybird.img -n floppyimg/bird03.lzma -t raw -c lzma
+./cbfstool ./coreflop.rom add -f ./floppybird.img -n floppyimg/bird04.lzma -t raw -c lzma
+./cbfstool ./coreflop.rom add -f ./floppybird.img -n floppyimg/bird05.lzma -t raw -c lzma
+./cbfstool ./coreflop.rom add -f ./floppybird.img -n floppyimg/bird06.lzma -t raw -c lzma
+./cbfstool ./coreflop.rom add -f ./floppybird.img -n floppyimg/bird07.lzma -t raw -c lzma
+./cbfstool ./coreflop.rom add -f ./floppybird.img -n floppyimg/bird08.lzma -t raw -c lzma
+./cbfstool ./coreflop.rom add -f ./floppybird.img -n floppyimg/bird09.lzma -t raw -c lzma
+./cbfstool ./coreflop.rom add -f ./floppybird.img -n floppyimg/bird10.lzma -t raw -c lzma
+./cbfstool ./coreflop.rom add -f ./floppybird.img -n floppyimg/bird11.lzma -t raw -c lzma
+./cbfstool ./coreflop.rom add -f ./floppybird.img -n floppyimg/bird12.lzma -t raw -c lzma
+./cbfstool ./coreflop.rom add -f ./floppybird.img -n floppyimg/bird13.lzma -t raw -c lzma
+./cbfstool ./coreflop.rom add -f ./floppybird.img -n floppyimg/bird14.lzma -t raw -c lzma
