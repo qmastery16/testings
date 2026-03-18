@@ -1,0 +1,1 @@
+sudo flashrom -p internal:laptop=force_I_want_a_brick,amd_imc_force=yes -c "EN25QH32" -w ./coreflop.rom
